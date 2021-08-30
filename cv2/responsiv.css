@@ -1,0 +1,58 @@
+/*tablets*/
+@media  (max-width:768px){
+    .containerdireita{
+    position: relative; 
+    bottom: 200%;
+    width: 100%;
+        }
+           
+    .container h3{
+        position: relative;
+        top: 5px;
+        left: 1px;
+    }
+    
+    .copy{
+        display: none;
+    }
+}
+
+/*Celulares*/ 
+@media (max-width:640px ){
+    .containerdireita{
+
+     position: relative;
+     bottom: 200%;
+     width: 100%;
+    }
+
+    .container h3 {
+        position: relative;
+        top: 40px;
+        left: 15px;
+    }
+
+
+}
+
+@media (max-width:360px ){
+    .containerdireita{
+    width: 100%;   
+} 
+
+     .conhecimentos {
+        position: relative;
+        left: -30%;
+     }
+   
+     .container {
+         position: relative;
+         left: -9%;
+     }
+
+     .container h3 {
+        position: relative;
+        left: 50%; 
+    }
+
+}

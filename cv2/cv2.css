@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.container{
+    display: flex;
+    margin: 90px;
+    padding: 0px;  
+    color:  #19304f;
+    font-family: 'Roboto', sans-serif;    
+}
+
+img{
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+}
+
+h1{ margin-top: 30px;
+    margin-left: 11px;
+}
+
+h3{
+    margin-top: 70px;
+    margin-left: -190px;
+}
+
+.titl{
+    margin: 105px;
+    padding: 0px;
+    margin-top: 5px; 
+}
+
+ .container4{
+    margin: 105px;
+    padding: 0px;
+    margin-top: 7px;
+ }
+
+ .principal {
+     background-color:white;
+ }
+
+ .containerdireita{
+     height: 130%;
+    position: fixed;
+    right: 90px;
+    bottom: -200px;
+    background-color: #19304f;
+    width: 500px;
+    right: 0%;
+    color: white;
+    border: 1px solid #19304f;    
+}
+
+.barrad{
+    margin:300px 30px 0 40px;
+    color: white;
+}
+
+.contato{
+    text-align: center;
+   position: relative;
+   top: 90px;
+   color: white;
+    
+}
+
+.conhecimentos{
+    border-bottom: 2px solid white;
+    height: 10px;
+    width: 220px;
+    padding-bottom: 10px;
+     margin-left: 110px;
+    margin-top: 40px; 
+    color: white;
+    text-align: start;   
+}
+
+.titul{
+    color:  #19304f;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.paragr{
+    line-height: 24px;
+}
+
+p{
+    color: #222222;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+
+
+.contato p{
+    color: white;
+}
+
+h3{
+    color:  #19304f;
+}
+
+.edctitulo{
+    line-height: 30px;
+    margin-top: 8px;
+}
+
+.img2{
+ width: 50px;
+ height: 50px;
+ margin-bottom: 20px;
+
+}
+
+.conhecimentos1{
+    text-align: center;
+    margin-top: 150px;   
+}
+
+.copy{
+    font-weight: bold;
+    position: relative;
+    bottom: -11px;
+}
+
+ li {
+    font-size: 20px;
+}
+
